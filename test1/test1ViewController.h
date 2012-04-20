@@ -9,7 +9,8 @@
 #import <UIKit/UIKit.h>
 
 @interface test1ViewController : UIViewController {
-    
+    UIView *contentView;  
 }
+
 
 @end
